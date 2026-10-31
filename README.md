@@ -323,3 +323,27 @@ https://opendart.com/llms.txt
 Sadece eğitim amaçlıdır.
 
 © Opendart Akademi
+
+<!-- opendart-akademi:bas -->
+
+---
+
+## 🎓 Opendart Akademi
+
+Bu depo, [Opendart Akademi](https://www.opendart.com) eğitmeni **İbrahim Gökyar**'ın **.NET Core ve C#** eğitimlerinde kullanılan örnek kodları içerir.
+
+- 📘 **Eğitim programı:** [.NET Core ve C# eğitimi](https://www.opendart.com/egitimler/NetCore/net-core-egitimi)
+- 📚 **Konu sayfası:** [https://www.opendart.com/egitim/net-core-ile-programlama-egitimi](https://www.opendart.com/egitim/net-core-ile-programlama-egitimi)
+- ▶️ **YouTube oynatma listesi:** [.NET Core ve C# videoları](https://www.youtube.com/playlist?list=PLWZwlBWaX-SQ)
+- 🔔 **YouTube kanalı:** [@opendart](https://www.youtube.com/@opendart?sub_confirmation=1)
+- 🏢 **Kurumsal eğitim:** [https://www.opendart.com/Kurumsal/kurumsal](https://www.opendart.com/Kurumsal/kurumsal)
+
+### Son makaleler
+
+- [.NET Core ve C# öğrenmek için hangi ön bilgiler gerekir? Başlamadan önce](https://www.opendart.com/makaledetay_net-core-ve-c-ogrenmek-icin-hangi-on-bilgiler-gerekir-baslamadan-once-245-2779.aspx)
+- [Kurumsal .NET Core ve C# eğitimi nasıl planlanır? Şirketler için adım adım rehber](https://www.opendart.com/makaledetay_kurumsal-net-core-ve-c-egitimi-nasil-planlanir-sirketler-icin-adim-adim-rehber-245-2766.aspx)
+- [.NET Core ve C# öğrenen kişi hangi işlerde çalışır? Kariyer yolları nelerdir?](https://www.opendart.com/makaledetay_net-core-ve-c-ogrenen-kisi-hangi-islerde-calisir-kariyer-yollari-nelerdir-245-2753.aspx)
+- [.NET Core ve C# kaç ayda öğrenilir? Sıfırdan iş bulacak seviyeye gerçekçi süre](https://www.opendart.com/makaledetay_net-core-ve-c-kac-ayda-ogrenilir-sifirdan-is-bulacak-seviyeye-gercekci-sure-245-2740.aspx)
+- [.NET Core ve C# eğitimi ücreti ne kadar? Fiyatı belirleyen faktörler nelerdir?](https://www.opendart.com/makaledetay_net-core-ve-c-egitimi-ucreti-ne-kadar-fiyati-belirleyen-faktorler-nelerdir-245-2727.aspx)
+
+<!-- opendart-akademi:son -->
